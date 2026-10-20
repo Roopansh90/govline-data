@@ -1,0 +1,31 @@
+name: Verify helplines
+
+on:
+  schedule:
+    - cron: '17 3 * * *'   # every day at 08:47 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check official sources
+        run: node scripts/update.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "govline-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add helplines.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: verified $(date -u +%F)"
+            git push
+          fi
