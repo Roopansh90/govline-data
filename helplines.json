@@ -1906,6 +1906,69 @@
       ]
     },
     {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "flag": "🇨🇮",
+      "helplines": [
+        {
+          "category": "Emergency",
+          "name": "Emergency - 100",
+          "number": "100",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 110",
+          "number": "110",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 111",
+          "number": "111",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 170",
+          "number": "170",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 180",
+          "number": "180",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 185",
+          "number": "185",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 145",
+          "number": "145",
+          "email": "",
+          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        }
+      ]
+    },
+    {
       "code": "HR",
       "name": "Croatia",
       "flag": "🇭🇷",
@@ -2050,69 +2113,6 @@
           "number": "158",
           "email": "",
           "description": "Police for Czech Republic - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "code": "CI",
-      "name": "Côte d'Ivoire",
-      "flag": "🇨🇮",
-      "helplines": [
-        {
-          "category": "Emergency",
-          "name": "Emergency - 100",
-          "number": "100",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 110",
-          "number": "110",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 111",
-          "number": "111",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 170",
-          "number": "170",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 180",
-          "number": "180",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 185",
-          "number": "185",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 145",
-          "number": "145",
-          "email": "",
-          "description": "Emergency for Côte d'Ivoire - Microsoft+PDF+WheelchairTravel",
           "verified": "2026-10-20"
         }
       ]
@@ -5805,6 +5805,29 @@
       ]
     },
     {
+      "code": "ST",
+      "name": "São Tomé e Príncipe",
+      "flag": "🇸🇹",
+      "helplines": [
+        {
+          "category": "Emergency",
+          "name": "Emergency - 112",
+          "number": "112",
+          "email": "",
+          "description": "Emergency for São Tomé e Príncipe - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 113",
+          "number": "113",
+          "email": "",
+          "description": "Emergency for São Tomé e Príncipe - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        }
+      ]
+    },
+    {
       "code": "SA",
       "name": "Saudi Arabia",
       "flag": "🇸🇦",
@@ -6610,29 +6633,6 @@
       ]
     },
     {
-      "code": "ST",
-      "name": "São Tomé e Príncipe",
-      "flag": "🇸🇹",
-      "helplines": [
-        {
-          "category": "Emergency",
-          "name": "Emergency - 112",
-          "number": "112",
-          "email": "",
-          "description": "Emergency for São Tomé e Príncipe - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 113",
-          "number": "113",
-          "email": "",
-          "description": "Emergency for São Tomé e Príncipe - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        }
-      ]
-    },
-    {
       "code": "TW",
       "name": "Taiwan",
       "flag": "🇹🇼",
@@ -6929,6 +6929,53 @@
       ]
     },
     {
+      "code": "TR",
+      "name": "Türkiye",
+      "flag": "🇹🇷",
+      "helplines": [
+        {
+          "category": "Emergency",
+          "name": "Emergency - 112",
+          "number": "112",
+          "email": "",
+          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 132",
+          "number": "132",
+          "email": "",
+          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 156",
+          "number": "156",
+          "email": "",
+          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 158",
+          "number": "158",
+          "email": "",
+          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        },
+        {
+          "category": "Emergency",
+          "name": "Emergency - 177",
+          "number": "177",
+          "email": "",
+          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
+          "verified": "2026-10-20"
+        }
+      ]
+    },
+    {
       "code": "TM",
       "name": "Turkmenistan",
       "flag": "🇹🇲",
@@ -6986,53 +7033,6 @@
           "number": "911",
           "email": "",
           "description": "Emergency for Turks & Caicos Islands - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "code": "TR",
-      "name": "Türkiye",
-      "flag": "🇹🇷",
-      "helplines": [
-        {
-          "category": "Emergency",
-          "name": "Emergency - 112",
-          "number": "112",
-          "email": "",
-          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 132",
-          "number": "132",
-          "email": "",
-          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 156",
-          "number": "156",
-          "email": "",
-          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 158",
-          "number": "158",
-          "email": "",
-          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
-          "verified": "2026-10-20"
-        },
-        {
-          "category": "Emergency",
-          "name": "Emergency - 177",
-          "number": "177",
-          "email": "",
-          "description": "Emergency for Türkiye - Microsoft+PDF+WheelchairTravel",
           "verified": "2026-10-20"
         }
       ]
